@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf34ae4bc8b74efea41716eeb8d2c077",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd16741c860d48d982f9fe4acfe1328c",
+    "id": "btnOrkut",
+    "ide_onClick": "AS_Button_e7c85689c759413ca31ed44914c435b5",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d3b40a6cda1f4481804879e600234ef0",
+    "name": "kony.ui.Button",
+    "parent": "flxOptionsGroup",
+    "pf": "frmGroupEdit",
+    "wType": "Button",
+    "zindex": 1
+}

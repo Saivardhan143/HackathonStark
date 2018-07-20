@@ -1,0 +1,192 @@
+{
+    "appidkey": "HackathonStark",
+    "mwaddrkey": "",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "defaulttheme": "defaultTheme",
+    "apppackagekey": "",
+    "appaddrkey": "",
+    "nativeContainerProperties": {
+        "isModified": false,
+        "isEnableJSContainer": false,
+        "isEnableJSContainerAndroid": false,
+        "isEnableJSContaineriOS": false
+    },
+    "appnamekey": "HackathonStark",
+    "currentgaversion": "7.3.0",
+    "appversionkey": "1.0.0",
+    "project.type": "js",
+    "startupformkey": "",
+    "vendornamekey": "KonyLabs",
+    "createdgaversion": "7.3.0",
+    "konyVizVersion": "7.3.0",
+    "isDpScaleFactor": true,
+    "isMVC": false,
+    "referenceWidth": "375",
+    "winmobileguidkey": "",
+    "APPLICATION_THEME": "default",
+    "build": "debug",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "appmenu": {
+        "tablet": {
+            "data": [
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "ba62e88648e941e1b862634ccddc58ef",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "a9dc8993a6ed4454875c1123cda80fee",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "i82c5a9caa9d46b68546d7852d9da36b",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "c4ed0c82807b447a9540b5526408805d",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "desktop": {
+            "data": [
+                {
+                    "kuid": "d73d5c625a114c718f17c938eeffdb12",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "haea6c3cf4fc47daa605ae889863fa03",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "b23d10d1f076461794b4c0a768e59a1a",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "j3a87a6af1b44a929208759940ec4688",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusskin": null,
+        "osVersion": "iOS7",
+        "wType": "Appmenu",
+        "focusSkin": null,
+        "mobile": {
+            "data": [
+                {
+                    "kuid": "d6e0210084e04e24bcdc224407fb6c8d",
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "bcdcbd022adb4f80b61b0a25c1ba6a47",
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "f22f4aef525640d8b420b36facb531e6",
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "d74adf9b6ecc45ddb46eb9e5589a7dae",
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "skin": null,
+        "osPlatform": ""
+    },
+    "project_version": "sprint27",
+    "mwportkey": "",
+    "category": "app",
+    "createdVizVersion": "7.3.0",
+    "mwhttpsportkey": ""
+}

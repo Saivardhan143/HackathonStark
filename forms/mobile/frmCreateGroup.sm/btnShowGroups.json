@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "250dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd3c6db60cce43089fbfdbbe22e158e1",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd16741c860d48d982f9fe4acfe1328c",
+    "id": "btnShowGroups",
+    "ide_onClick": "AS_Button_c1e950c8e7a44fc296fa53d2ec15ea3f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "j1f0101e5e2146629b8aa18f69d8b20e",
+    "name": "kony.ui.Button",
+    "parent": "flxcreategroupheader",
+    "pf": "frmCreateGroup",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,18 @@
+{
+    "AS_Button_c1e950c8e7a44fc296fa53d2ec15ea3f": {
+        "id": "AS_Button_c1e950c8e7a44fc296fa53d2ec15ea3f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreateGroup",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ffe71f819de44d22a4d50d7b69abb025"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "AS_FlexContainer_a9ee3f5244ae485fa9ef3673c85c9a27": {
+        "id": "AS_FlexContainer_a9ee3f5244ae485fa9ef3673c85c9a27",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmImportContacts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ebd7f1f3bfaa4ed5ae2006bebc0637bd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___c42ac4f654934827a7e6de2243ee39fc",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmCreateGroup",
+            "widgetId": "flx0",
+            "propertyName": "opacity",
+            "propertyValue": "0.5",
+            "itemKUID": "ffe71f819de44d22a4d50d7b69abb025",
+            "widgetKUID": "c4dd3a07f4134728bcf0b227b7c68388",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmCreateGroup.flx0"
+        }]
+    }
+}

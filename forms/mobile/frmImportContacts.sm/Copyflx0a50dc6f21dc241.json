@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2.50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sfbf4355333c4d16886cd323fd1cc829",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyImgProfile0a2c2b710c69d45",
+        "CopylblProfileName0f38d7b6987c34d"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Copyflx0a50dc6f21dc241",
+    "ide_onTouchMove": "AS_FlexContainer_b1137986698c40789a510ba09d975afa",
+    "ide_onTouchStart": "AS_FlexContainer_c25fd66bd452497088022483de88b606",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ce6d3de21f254a3ba6bc6c62cee03df9",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxcontactsimp2",
+    "pf": "frmImportContacts",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

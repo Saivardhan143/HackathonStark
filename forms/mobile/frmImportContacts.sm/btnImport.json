@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "173dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s47327998b434eac9e739fca6a56e94f",
+    "_text_": "Import",
+    "_top_": {
+        "type": "string",
+        "value": "566dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd16741c860d48d982f9fe4acfe1328c",
+    "id": "btnImport",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b05ea568bcaf429e8a13dff3c5e508f5",
+    "name": "kony.ui.Button",
+    "parent": "frmImportContacts",
+    "pf": "frmImportContacts",
+    "wType": "Button",
+    "zindex": 1
+}

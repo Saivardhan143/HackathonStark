@@ -1,0 +1,45 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s18ea7b563d041cdbd90d84f46a32651",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd16741c860d48d982f9fe4acfe1328c",
+    "id": "btnAdd",
+    "info": null,
+    "isvisible": true,
+    "kuid": "affc514dfeda4016af971e04dcfc3e07",
+    "name": "kony.ui.Button",
+    "parent": "flxDeleteAndAdd",
+    "pf": "frmGroupEdit",
+    "wType": "Button",
+    "zindex": 1
+}
