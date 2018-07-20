@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "sff1629465c24eb39609b195fc061e2f",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "21%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s24699d0bc99405399bf58b1fb4e9153",
+    "id": "HamburgerClose",
+    "ide_onClick": "AS_Button_d045621c708d464488c5730a656e6a92",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a95fb2e69c0943c084beccc4d3283091",
+    "name": "kony.ui.Button",
+    "parent": "FlexTrigger",
+    "pf": "Dashboard",
+    "wType": "Button",
+    "zindex": 1
+}

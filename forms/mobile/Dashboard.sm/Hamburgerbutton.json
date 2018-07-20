@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf54b9d1862c46e2855b31f7df3a1326",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sd16741c860d48d982f9fe4acfe1328c"
+    },
+    "displaytext": true,
+    "id": "Hamburgerbutton",
+    "ide_onClick": "AS_Button_ae9d40d5eb744b8cb36cf8504d3e8b52",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fb25946c8f1b4e35835165a7f0c37127",
+    "name": "kony.ui.Button",
+    "parent": "topflex",
+    "pf": "Dashboard",
+    "wType": "Button",
+    "zindex": 1
+}

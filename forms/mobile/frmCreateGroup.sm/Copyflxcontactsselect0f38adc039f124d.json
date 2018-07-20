@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0ead684c93245fda4300930a47767ab",
+    "_top_": {
+        "type": "string",
+        "value": "1.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Copyflx0g1fb336689b14a",
+        "Copyflx0c117c52432174d",
+        "Copyflx0b74f47cc5dc84d"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Copyflxcontactsselect0f38adc039f124d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "acbc29804ae848a4b46490a8dc45f221",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxcontacts",
+    "pf": "frmCreateGroup",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}
