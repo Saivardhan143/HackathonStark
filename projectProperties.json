@@ -1,12 +1,13 @@
 {
     "appidkey": "HackathonStark",
     "mwaddrkey": "",
+    "export.type": "studioviz",
     "isNewAppWithRespectToAndroidPackageName": "",
     "defaulttheme": "defaultTheme",
     "apppackagekey": "",
     "appaddrkey": "",
     "nativeContainerProperties": {
-        "isModified": false,
+        "isModified": true,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false
